@@ -1,0 +1,208 @@
+    /* Basic styles for the navigation */
+    body{
+      background-image: url(./img/pexels-prajak-techaprasitthiphol-1162010\ 1.jpg);
+
+    }
+    .first{
+      background-image: url(./img/pexels-rafael-rodrigues-16842057\ 1.jpg);
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    nav a {
+      margin-top: 40px;
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      color: #ddd;
+      font-size: 15px;
+    }
+    
+    nav a:hover {
+     color: #f09d21;
+    }
+    
+    /* Styles for the hero section (logo, title, description) */
+    .hero {
+      
+      text-align: center;
+      padding: 2rem 0;
+    }
+    
+    .hero h1 {
+      margin-top: 2q0px;
+      margin-bottom: 0.5rem;
+      font-weight: 500;
+      margin-left: 40PX;
+    }
+    
+    .hero p {
+      color: gold;
+      font-weight: bold;
+    }
+    .Future{
+      font-size: 15PX;
+        color: #ddd;
+  text-align: left;
+  font-family:Georgia, 'Times New Roman', Times, serif
+    }
+    .ftr{
+      font-size: 27PX;
+      color: #ffe23e;
+  text-align: left;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight:lighter
+    }
+    .paragraph-section{
+      background-image: url(img/pexels-prajak-techaprasitthiphol-1162010\ 1.jpg);
+      background-attachment: fixed;
+      padding: 0,0;
+      padding-bottom: 120PX;
+      
+    }
+    .the-head{
+      text-align: center;
+     padding-top: 80px;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      color:darkgoldenrod;
+      font-size:30PX;
+    }
+    .side-side{
+      font-size: 15PX;
+       text-align: center;
+    }
+    .follow-side{
+      font-size: 15PX;
+text-align: center;
+    }
+   .full__content{
+    margin-top: 60px;
+   }    /* Basic styles for the navigation */
+   nav {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+   }
+   
+   nav a {
+     margin-top: 40px;
+     text-decoration: none;
+     padding: 0.5rem 1rem;
+     color: #ddd;
+     font-size: 15px;
+   }
+   
+   nav a:hover {
+    color: #f09d21;
+   }
+   
+   /* Styles for the hero section (logo, title, description) */
+   .hero {
+     
+     text-align: center;
+     padding: 2rem 0;
+   }
+   
+   .hero h1 {
+     margin-top: 2q0px;
+     margin-bottom: 0.5rem;
+     font-weight: 500;
+     margin-left: 40PX;
+   }
+   
+   .hero p {
+     color: gold;
+     font-weight: bold;
+   }
+   .Future{
+     font-size: 15PX;
+       color: #ddd;
+ text-align: left;
+ font-family:Georgia, 'Times New Roman', Times, serif
+   }
+   .ftr{
+     font-size: 27PX;
+     color: #ffe23e;
+ text-align: left;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ font-weight:lighter
+   }
+   .paragraph-section{
+     background-image: url(img/pexels-prajak-techaprasitthiphol-1162010\ 1.jpg);
+     background-attachment: fixed;
+     padding: 0,0;
+     padding-bottom: 120PX;
+     
+   }
+   .the-head{
+     text-align: center;
+    padding-top: 80px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     color:darkgoldenrod;
+     font-size:30PX;
+   }
+   .side-side{
+     font-size: 15PX;
+      text-align: center;
+   }
+   .follow-side{
+     font-size: 15PX;
+text-align: center;
+   }
+ .img1{
+    width:100%;
+    height: 400px;
+    padding-top: 200px;
+    background-image: url(./img/image1.jpg);
+    background-attachment: fixed;
+  }
+    .selector{
+      display: flex;
+      justify-content: space-between;
+      padding:  20px;
+      background-color: white;
+
+    }
+     .selector div{
+      width: 300px;
+      height: 400px;
+      background-image: url(./img/pexels-prajak-techaprasitthiphol-1162010\ 1.jpg);
+      background-position: center;
+      background-size: cover;
+      border-radius: 30px;
+      display: flex;
+      flex-direction: column;
+      flex-wrap: nowrap;
+      padding: 12px ;
+      background-attachment: fixed;
+     }
+     .selector div ,h1,p{
+      /* justify-content: center;
+      place-items: center; */
+      margin-left: 40px;
+     }
+.footer-cont{
+  margin-top: 100px;
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+/*   background-color: #D9D9D9; */
+  padding: 20px; 
+}
+.address{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  justify-content: flex-start;
+  padding-top: 20px;
+
+}
+.address-content h4, .address-content p{
+padding: 0%;
+margin: 0%;
+}
+footer{
+  background:transparent;
+}
