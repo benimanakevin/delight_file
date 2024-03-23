@@ -119,13 +119,11 @@ text-align: center;
    .Future{
      font-size: 15PX;
        color: #ddd;
- text-align: left;
  font-family:Georgia, 'Times New Roman', Times, serif
    }
    .ftr{
      font-size: 27PX;
      color: #ffe23e;
- text-align: left;
  font-family:Georgia, 'Times New Roman', Times, serif;
  font-weight:lighter
    }
@@ -134,6 +132,7 @@ text-align: center;
      background-attachment: fixed;
      padding: 0,0;
      padding-bottom: 120PX;
+     margin-top:  180px;
      
    }
    .the-head{
@@ -183,7 +182,7 @@ text-align: center;
      }
      .selector div ,h1,p{
     /*   justify-content: center; */
-      place-items: center;
+ /*      place-items: center; */
       margin-left: 10px;
       display: flex;
       flex-direction: column;
@@ -194,7 +193,7 @@ text-align: center;
 .footer-cont{
   margin-top: 100px;
   display: flex;
-  /* align-items: center; */
+  align-items: center;
   justify-content: space-between;
 /*   background-color: #D9D9D9; */
   padding: 10px; 
